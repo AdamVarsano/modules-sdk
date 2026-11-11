@@ -60,7 +60,7 @@
     "uuid": "3.4.0",
     "vm2": "3.9.7",
     "waitasecond": "1.11.1",
-    "webpack": "5.35.1",
+    "webpack": "5.112.0",
     "xyzt": "5.4.3"
   },
   "devDependencies": {
